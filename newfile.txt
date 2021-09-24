@@ -1,6 +1,0 @@
-Update 1.0
-adding new text "Hello, World!"
-
-Update 1.1
-adding new text "Goodbye, World!"
-deleted "no text"
